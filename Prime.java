@@ -12,6 +12,7 @@ class Prime{
             {
                 System.out.println(i+"is not prime");
             }
+            i++;
 
         }
     }
